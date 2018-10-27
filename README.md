@@ -3,20 +3,14 @@
 
 ## 完整中文版BERT模型分析请移步我的博客：[NLP自然语言处理-谷歌BERT模型深度解析](https://blog.csdn.net/qq_39521554/article/details/83062188)
 Author-作者
-Junseong Kim, Scatter Lab (codertimo@gmail.com / junseong.kim@scatter.co.kr)
-License
-This project following Apache 2.0 License as written in LICENSE file
+Junseong Kim, Scatter Lab (codertimo@gmail.com / junseong.kim@scatter.co.kr)  
+License-协议
+This project following Apache 2.0 License as written in LICENSE file 项目基于Apache2.0协议
 
 Copyright 2018 Junseong Kim, Scatter Lab, respective BERT contributors  
 Copyright (c) 2018 Alexander Rush : The Annotated Trasnformer
 
- Environment require:  
-               -tqdm  
-               -numpy  
-               -torch>=0.4.0  
-               -python3.6+  
-
-This version has based on the version in https://github.com/codertimo/BERT-pytorch  
+This Chinese version has based on the version in https://github.com/codertimo/BERT-pytorch  
 此中文版本仅基于原作者Junseong Kim与原Google项目的pytorch版本代码作为分享，如有其他用途请与原作者联系  
 
 [![LICENSE](https://img.shields.io/github/license/codertimo/BERT-pytorch.svg)](https://github.com/codertimo/BERT-pytorch/blob/master/LICENSE)
@@ -25,7 +19,14 @@ This version has based on the version in https://github.com/codertimo/BERT-pytor
 [![CircleCI](https://circleci.com/gh/codertimo/BERT-pytorch.svg?style=shield)](https://circleci.com/gh/codertimo/BERT-pytorch)
 [![PyPI](https://img.shields.io/pypi/v/bert-pytorch.svg)](https://pypi.org/project/bert_pytorch/)
 [![PyPI - Status](https://img.shields.io/pypi/status/bert-pytorch.svg)](https://pypi.org/project/bert_pytorch/)
-[![Documentation Status](https://readthedocs.org/projects/bert-pytorch/badge/?version=latest)](https://bert-pytorch.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/bert-pytorch/badge/?version=latest)](https://bert-pytorch.readthedocs.io/en/latest/?badge=latest)  
+
+ Environment require:  
+         ---tqdm  
+         ---numpy  
+         ---torch>=0.4.0  
+         ---python3.6+  
+
 
 Pytorch implementation of Google AI's 2018 BERT, with simple annotation
 
